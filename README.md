@@ -1,12 +1,9 @@
 <h1 align="center">🚀 Welcome! I'm Zack 🚀</h1>
 
-<p align="left">
-  Hello! My name is Zack, and I am deeply committed to exploring and applying generative AI. As the founder and CTO of a seed-stage AI startup : [Nexa AI](https://www.nexa4ai.com), I am passionate about advancing AI theory and its practical applications. My goal is to seamlessly connect groundbreaking AI research with tangible, real-world uses.
-</p>
 
-<p align="left">
-  I worked in FAANG companies in Silicon Valley. I am devoted to continuous learning and growth, aiming to contribute meaningfully to the ever-evolving world of artificial intelligence.
-</p>
+  Hello! My name is Zack, and I am deeply committed to exploring and applying generative AI. As the founder and CTO of a seed-stage AI startup : [Nexa AI](https://www.nexa4ai.com), I am passionate about advancing AI theory and its practical applications. My goal is to seamlessly connect groundbreaking AI research with tangible, real-world uses.
+
+  I worked in FAANG companies in Silicon Valley for 4 years. I am devoted to continuous learning and growth, aiming to contribute meaningfully to the ever-evolving world of artificial intelligence.
 
 <p align="center">
   <img src="cat-computer.gif" alt="A GIF showing my work">
