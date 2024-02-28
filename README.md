@@ -22,7 +22,7 @@ You can find some of my learning notes below:
 - AI
   - [LLM](https://github.com/zhiyuan8/LLM-learning)
   - [Pytorch](https://github.com/zhiyuan8/Pytorch-tutorial)
-  - [Search & Recommendation System with LLM](https://github.com/zhiyuan8/LLM-Agent-for-Search-and-Recommendation/settings)
+  - [Search & Recommendation System with LLM](https://github.com/zhiyuan8/LLM-Agent-for-Search-and-Recommendation)
 - System
   - [Kubernetes & Docker](https://github.com/zhiyuan8/Docker-Kubernetes-GKE)
 - Full Stack
