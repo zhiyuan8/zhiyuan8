@@ -20,7 +20,8 @@
 
 You can find some of my learning notes below:
 - AI
-  - [LLM](https://github.com/zhiyuan8/LLM-learning)
+  - [Large Language Models](https://github.com/zhiyuan8/LLM-learning)
+  - [AI Agent & LLMs](https://github.com/zhiyuan8/ai-agent)
   - [Pytorch](https://github.com/zhiyuan8/Pytorch-tutorial)
   - [Search & Recommendation System with LLM](https://github.com/zhiyuan8/LLM-Agent-for-Search-and-Recommendation)
 - System
