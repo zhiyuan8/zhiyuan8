@@ -21,7 +21,7 @@
 You can find some of my learning notes below:
 - AI
   - [Large Language Models](https://github.com/zhiyuan8/LLM-learning)
-  - [AI Agent & LLMs](https://github.com/zhiyuan8/ai-agent)
+  - [AI Agent](https://github.com/zhiyuan8/ai-agent)
   - [Pytorch](https://github.com/zhiyuan8/Pytorch-tutorial)
   - [Transfomers and Huggingface](https://github.com/zhiyuan8/huggingface)
   - [Search & Recommendation System with LLM](https://github.com/zhiyuan8/LLM-Agent-for-Search-and-Recommendation)
