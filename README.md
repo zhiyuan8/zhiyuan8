@@ -21,6 +21,7 @@
 You can find some of my learning notes below:
 - AI
   - [Large Language Models](https://github.com/zhiyuan8/LLM-learning)
+  - [On-device AI](https://github.com/zhiyuan8/on-device-ML)
   - [AI Agent](https://github.com/zhiyuan8/ai-agent)
   - [Pytorch](https://github.com/zhiyuan8/Pytorch-tutorial)
   - [Transfomers and Huggingface](https://github.com/zhiyuan8/huggingface)
