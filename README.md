@@ -31,6 +31,7 @@ You can find some of my learning notes below:
   - Redis
   - nginx and proxy
 - Full Stack
+  - [Rust Coding Language](https://github.com/zhiyuan8/rust-tutorial)
   - [FastAPI & websocket](https://github.com/zhiyuan8/FastAPI-websocket-tutorial)
   - [Python concurrency](https://github.com/zhiyuan8/Python-concurrency)
   - Android Application
