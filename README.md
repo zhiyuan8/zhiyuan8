@@ -1,40 +1,55 @@
 <h1 align="center">🚀 Welcome! I'm Zack 🚀</h1>
 
-
-  Hello! My name is Zack, and I am deeply committed to exploring and applying generative AI. As the cofounder and CTO of a seed-stage AI startup : [Nexa AI](https://www.nexa4ai.com), I am passionate about advancing AI theory and its practical applications. My goal is to seamlessly connect groundbreaking AI research with tangible, real-world uses.
-
-  I worked in FAANG companies in Silicon Valley for 4 years. I am devoted to continuous learning and growth, aiming to contribute meaningfully to the ever-evolving world of artificial intelligence.
-
 <p align="center">
-  <img src="cat-computer.gif" alt="A GIF showing my work">
+  <b>CTO &amp; Co-founder of <a href="https://nexa.ai">Nexa AI</a> (acquired by <a href="https://www.qualcomm.com">Qualcomm</a>)</b><br>
+  personal website → <a href="https://zackli.ai"><b>zackli.ai</b></a>
 </p>
 
 <p align="center">
-  Let's connect:
+  <a href="https://zackli.ai">Website</a> &nbsp;·&nbsp;
+  <a href="https://github.com/zhiyuan8">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/zack-z-li/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/zacklearner">Twitter/X</a> &nbsp;·&nbsp;
+  <a href="mailto:zackli4ai@gmail.com">zackli4ai@gmail.com</a>
 </p>
 
-<p align="center">
-  🌐 <a href="https://www.linkedin.com/in/zack-z-li/">LinkedIn</a><br>
-  🐦 <a href="https://twitter.com/zacklearner">Twitter</a>
-</p>
+<!-- Self-intro, distilled from zackli.ai -->
+I'm Zack (Zhiyuan) Li, an engineering leader and entrepreneur building **scalable AI systems** from frontier research to robust products. My interests lie in **scalable software architecture design**, **Gen AI inference**, and **Physical AI**.
 
-You can find some of my learning notes below:
-- AI
-  - [Large Language Models](https://github.com/zhiyuan8/LLM-learning)
-  - [On-device AI](https://github.com/zhiyuan8/on-device-ML)
-  - [AI Agent](https://github.com/zhiyuan8/ai-agent)
-  - [Pytorch](https://github.com/zhiyuan8/Pytorch-tutorial)
-  - [Transfomers and Huggingface](https://github.com/zhiyuan8/huggingface)
-  - [Search & Recommendation System with LLM](https://github.com/zhiyuan8/LLM-Agent-for-Search-and-Recommendation)
-- System
-  - [Kubernetes & Docker](https://github.com/zhiyuan8/Docker-Kubernetes-GKE)
-  - Redis
-  - nginx and proxy
-- Full Stack
-  - [Rust Coding Language](https://github.com/zhiyuan8/rust-tutorial)
-  - [FastAPI & websocket](https://github.com/zhiyuan8/FastAPI-websocket-tutorial)
-  - [Python concurrency](https://github.com/zhiyuan8/Python-concurrency)
-  - Android Application
+I co-founded **[Nexa AI](https://nexa.ai)** (acquired by Qualcomm) as **Chief Technology Officer**. On the engineering side, we build **[Nexa SDK](https://github.com/NexaAI/nexa-sdk)** (now GenieX), which reached **[#1 on GitHub Trending](https://github.com/NexaAI/nexa-sdk)** and **[#1 Product of the Day](https://www.producthunt.com/products/nexasdk-for-mobile)**, earned **[8k+ GitHub stars](https://github.com/NexaAI/nexa-sdk)**, and was featured by **[Qualcomm](https://www.qualcomm.com/developer/blog/2025/09/omnineural-4b-nexaml-qualcomm-hexagon-npu)**, **[AMD](https://www.amd.com/en/developer/resources/technical-articles/2025/advancing-ai-with-nexa-ai--image-generation-on-amd-npu-with-sdxl.html)**, **[NVIDIA](https://blogs.nvidia.com/blog/rtx-ai-garage-nexa-hyperlink-local-agent/)**, **[Intel](https://www.linkedin.com/posts/intel-software_ai-ondeviceai-nexasdk-activity-7376337062087667712-xw7i)**, and **[IBM](https://www.ibm.com/new/announcements/ibm-granite-4-0-hyper-efficient-high-performance-hybrid-models)**. On the research side, I co-authored the **[Octopus model series](https://arxiv.org/abs/2404.01744)**, which trended **[top-2 on Hugging Face](https://huggingface.co/NexaAI)** and was featured by **[Google I/O](https://developers.googleblog.com/en/gemma-family-and-toolkit-expansion-io-2024/)** and **[Google DeepMind](https://deepmind.google/models/gemma/gemmaverse/omniaudio/)**.
+
+After M&A, our team at Qualcomm is building [**GenieX**](https://github.com/qualcomm/GenieX), a generative AI inference runtime for Qualcomm platforms. I also contribute to [llama.cpp](https://github.com/ggerganov/llama.cpp).
+
+
+Before Nexa, I built on-device AI and software systems at **Google**, **Amazon Lab126**, and **Cadence**. I hold an **M.S. from [Stanford University](https://www.stanford.edu)** (2019) and a **B.E. from [Tongji University](https://en.tongji.edu.cn)** (2017).
+
+## Selected publications ([Google Scholar](https://scholar.google.com/citations?user=KjCqFWMAAAAJ&hl=en))
+
+- [Octopus v2: On-Device Language Model for Super Agent](https://arxiv.org/abs/2404.01744) — *arXiv preprint arXiv:2404.01744, 2024*
+- [Octo-planner: On-Device Language Model for Planner-Action Agents](https://arxiv.org/abs/2406.18082) — *arXiv preprint arXiv:2406.18082, 2024*
+- [On-Device Language Models: A Comprehensive Review](https://arxiv.org/abs/2409.00088) — *arXiv preprint arXiv:2409.00088, 2024*
+- [AutoNeural: Co-Designing Vision-Language Models for NPU Inference](https://arxiv.org/abs/2512.02924) — *arXiv preprint arXiv:2512.02924, 2025*
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">  </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+  <!-- Languages -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <!-- AI / ML -->
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hugging-face-icon.svg" alt="huggingface" width="40" height="40"/></a>
+  <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="cuda" width="40" height="40"/></a>
+  <!-- Systems / Full stack -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+</p>
