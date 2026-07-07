@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://zackli.ai">Website</a> &nbsp;·&nbsp;
   <a href="https://github.com/zhiyuan8">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/zack-z-li/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/zackli4ai/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://x.com/zacklearner">Twitter/X</a> &nbsp;·&nbsp;
   <a href="mailto:zackli4ai@gmail.com">zackli4ai@gmail.com</a>
 </p>
