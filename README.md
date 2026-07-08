@@ -14,7 +14,7 @@
 </p>
 
 <!-- Self-intro, distilled from zackli.ai -->
-I'm Zack (Zhiyuan) Li, an engineering leader and entrepreneur building **scalable AI systems** from frontier research to robust products. My interests lie in **scalable software architecture design**, **Gen AI inference**, and **Physical AI**.
+I'm Zack (Zhiyuan) Li, an entrepreneur, builder, and lifelong learner building scalable AI systems from frontier research to robust products. My interests lie in scalable software architecture design, Gen AI inference and Physical AI.
 
 
 I co-founded **[Nexa AI](https://nexa.ai)** (acquired by Qualcomm) as **Chief Technology Officer**. On the engineering side, we build **[Nexa SDK](https://github.com/NexaAI/nexa-sdk)** (now GenieX), which reached #1 on GitHub Trending and #1 Product of the Day, earned 8k+ GitHub stars, and was featured by Qualcomm, AMD, NVIDIA, Intel, and IBM. On the research side, I co-authored the **[Octopus model series](https://arxiv.org/abs/2404.01744)**, which trended top-2 on Hugging Face and was featured by Google I/O and Google DeepMind.
